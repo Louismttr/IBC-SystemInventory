@@ -1,0 +1,12 @@
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC-SystemInventory.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC_SystemInventory.Properties.Resources.resources
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC-SystemInventory.csproj.GenerateResource.cache
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC-SystemInventory.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\bin\Debug\IBC-SystemInventory.exe.config
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\bin\Debug\IBC-SystemInventory.exe
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\bin\Debug\IBC-SystemInventory.pdb
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC_SystemInventory.frmHome.resources
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC_SystemInventory.frmIglesia.resources
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC_SystemInventory.frmMision.resources
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC-SystemInventory.exe
+C:\Users\luisa\OneDrive\Escritorio\Inventario IBC\Project\IBC-V0\IBC-SystemInventory\obj\Debug\IBC-SystemInventory.pdb

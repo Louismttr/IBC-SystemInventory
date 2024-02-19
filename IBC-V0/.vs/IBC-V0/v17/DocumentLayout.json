@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5D3D94-25D5-4DA4-8E2F-A399DD202C5F}|IBC-SystemInventory\\IBC-SystemInventory.csproj|c:\\users\\luisa\\onedrive\\escritorio\\inventario ibc\\project\\ibc-v0\\ibc-systeminventory\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C5D3D94-25D5-4DA4-8E2F-A399DD202C5F}|IBC-SystemInventory\\IBC-SystemInventory.csproj|solutionrelative:ibc-systeminventory\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5D3D94-25D5-4DA4-8E2F-A399DD202C5F}|IBC-SystemInventory\\IBC-SystemInventory.csproj|c:\\users\\luisa\\onedrive\\escritorio\\inventario ibc\\project\\ibc-v0\\ibc-systeminventory\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5D3D94-25D5-4DA4-8E2F-A399DD202C5F}|IBC-SystemInventory\\IBC-SystemInventory.csproj|solutionrelative:ibc-systeminventory\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5D3D94-25D5-4DA4-8E2F-A399DD202C5F}|IBC-SystemInventory\\IBC-SystemInventory.csproj|c:\\users\\luisa\\onedrive\\escritorio\\inventario ibc\\project\\ibc-v0\\ibc-systeminventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5D3D94-25D5-4DA4-8E2F-A399DD202C5F}|IBC-SystemInventory\\IBC-SystemInventory.csproj|solutionrelative:ibc-systeminventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\IBC-SystemInventory\\frmHome.cs",
+              "RelativeDocumentMoniker": "IBC-SystemInventory\\frmHome.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\IBC-SystemInventory\\frmHome.cs",
+              "RelativeToolTip": "IBC-SystemInventory\\frmHome.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T02:51:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\IBC-SystemInventory\\frmHome.cs",
+              "RelativeDocumentMoniker": "IBC-SystemInventory\\frmHome.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\IBC-SystemInventory\\frmHome.cs [Dise\u00F1o]",
+              "RelativeToolTip": "IBC-SystemInventory\\frmHome.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:51:18.638Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\IBC-SystemInventory\\Program.cs",
+              "RelativeDocumentMoniker": "IBC-SystemInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Escritorio\\Inventario IBC\\Project\\IBC-V0\\IBC-SystemInventory\\Program.cs",
+              "RelativeToolTip": "IBC-SystemInventory\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:50:54.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
